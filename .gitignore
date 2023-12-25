@@ -4,3 +4,4 @@ package-lock.json
 forum-api-app-server.pem
 config/database
 coverage
+.DS_Store
