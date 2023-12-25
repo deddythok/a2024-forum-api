@@ -1,5 +1,5 @@
 node_modules
 package-lock.json
 .env
-auth-api-app-server.pem
+forum-api-app-server.pem
 config/database
